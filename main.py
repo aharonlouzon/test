@@ -15,4 +15,4 @@ class ServiceRunner(dl.BaseServiceRunner):
 
     def run(self):
         self.printer.print()
-        print('This is 6th commit')
+        print('This is 8th commit')
