@@ -1,6 +1,6 @@
 import dtlpy as dl
 import logging
-from .package import Printer
+from package import Printer
 
 logger = logging.getLogger(name=__name__)
 
